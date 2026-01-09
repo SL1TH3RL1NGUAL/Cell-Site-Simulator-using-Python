@@ -1,2 +1,1 @@
-Capsule initialized by Luciio
-Capsule initialized by Luciio
+Initialized by Luciio on Termux capsule
